@@ -1,0 +1,7 @@
+{
+    "editor.fontSize": 15,
+    "editor.fontFamily": "'Fira Code'",
+    "editor.fontLigatures": true,
+    "editor.minimap.enabled": false,
+    "editor.formatOnSave": true,
+}
